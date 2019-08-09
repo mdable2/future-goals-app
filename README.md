@@ -1,4 +1,4 @@
-# future-goals-app
+# Future Goals Web App
 Web app that utilizes Tiller, Google Sheets API, and Alexa to track progress of financial goals.
 
 # Helpful Links
